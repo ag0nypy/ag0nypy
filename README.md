@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Tatsuツ
+# 🌌 ag0ny
 
 ### 🚀 Fullstack Developer | Arch & Nix Lover
 
@@ -67,6 +67,20 @@
 
 <div align="center">
 
-*Made with 🖤 by Tatsuツ*
+*Made with 🖤 by ag0ny*
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![ag0ny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ag0nypy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ag0nypy&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ag0nypy&theme=tokyonight&hide_border=true)
 
 </div>
