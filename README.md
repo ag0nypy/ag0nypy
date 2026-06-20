@@ -6,12 +6,7 @@
 
 > *"Code is poetry, and bugs are just unexpected rhymes."*
 
-```
-breaking things quietly since forever.
-i don't fix bugs — i negotiate with them.
-linux is home. the terminal is my language.
-somewhere between the kernel and the void.
-```
+
 
 ---
 
