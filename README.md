@@ -6,13 +6,16 @@
 
 > *"Code is poetry, and bugs are just unexpected rhymes."*
 
-</div>
+```
+breaking things quietly since forever.
+i don't fix bugs — i negotiate with them.
+linux is home. the terminal is my language.
+somewhere between the kernel and the void.
+```
 
 ---
 
 ## 🛠 Tech Stack
-
-### 🌐 Web & Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,33 +57,23 @@
 
 ## 🌐 Conecte-se comigo
 
-<div align="center">
-
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TatsuGT)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ytatsuxd/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qveqdxD46f)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@s1lent.py)
 
-</div>
-
----
-
-<div align="center">
-
-*Made with 🖤 by ag0ny*
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
 
 ![ag0ny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ag0nypy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ag0nypy&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ag0nypy&theme=tokyonight&hide_border=true)
+
+---
+
+*Made with 🖤 by ag0ny*
 
 </div>
